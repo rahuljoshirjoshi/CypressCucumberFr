@@ -1,6 +1,6 @@
-Cypress Cucumber Test Automation Framework (POM design pattern)
+**Cypress Cucumber Test Automation Framework (POM design pattern)**
 
-Features : 
+**Features : **
 Atomic and Independent test cases
 No hard coded strings and test data in spec files
 Hooks to perform the repeated steps for all the tests inside spec
@@ -15,7 +15,7 @@ Multiple reporters configuration (JUnit XML, cpress-mochawesome-reporter HTML)
 Cypress with Docker using Dockerfile and docker-compose
 Continuous Integration CI with Jenkins
 
-Using existing framework :
+**Using existing framework :**
 Clone git repo
 Navigate to folder and open terminal
 Run npm install to install the framework dependencies
